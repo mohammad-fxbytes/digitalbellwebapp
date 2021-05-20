@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072826724070",
+    "project_id": "hbms-web-app",
+    "storage_bucket": "hbms-web-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072826724070:android:56497d991391ff0fb1d527",
+        "android_client_info": {
+          "package_name": "com.rxhealth.hbms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072826724070-ntj70gr4kkc7g52vkgjs7br7fkkstr5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYtLR40hqQqupW4Vq7Z9ntnm_wxTSoObk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072826724070-ntj70gr4kkc7g52vkgjs7br7fkkstr5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
